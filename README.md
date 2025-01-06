@@ -3,6 +3,7 @@
 <H1>👋 Hi, I'm Peter Sagini</h1>
 🌟 Data Scientist | Python Enthusiast | Web Scraping Expert
 
+
 With 1 year of experience in Data Science, I specialize in:
 
 <ul>
