@@ -5,9 +5,12 @@
 
 With 1 year of experience in Data Science, I specialize in:
 
-🧠 Machine Learning & Predictive Modeling
-📊 Data Analysis & Visualization
-🌐 Web Scraping with Python
+<ul>
+  <li>🧠 Machine Learning & Predictive Modeling</li>
+  <li>📊 Data Analysis & Visualization</li>
+  <li>🌐 Web Scraping with Python</li>
+</ul>
+
 I’m passionate about turning raw data into actionable insights and building innovative solutions. Currently, I’m exploring Generative AI and expanding my expertise in Python for Data Science.
 
 🚀 My Goals:
